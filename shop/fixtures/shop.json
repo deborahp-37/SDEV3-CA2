@@ -1,0 +1,43 @@
+[
+    {
+        "model": "shop.category",
+        "pk": "5f02f61b-122f-465d-af02-354d947c9463",
+        "fields": {
+            "name": "Nintendo Switch games",
+            "description": "",
+            "image": "category/switch.jpg"
+        }
+    },
+    {
+        "model": "shop.category",
+        "pk": "7958cfd0-c00e-4b54-b0bd-29632737d585",
+        "fields": {
+            "name": "Xbox Series X games",
+            "description": "",
+            "image": "category/xbox.jpg"
+        }
+    },
+    {
+        "model": "shop.category",
+        "pk": "bac57a08-b722-4eb6-bbcb-34f6431e079d",
+        "fields": {
+            "name": "Consoles",
+            "description": "",
+            "image": "category/console_E6Hp8Kw.jpg"
+        }
+    },
+    {
+        "model": "shop.category",
+        "pk": "d02ef481-da3b-459e-8b58-3678e7cf736d",
+        "fields": {
+            "name": "PS5 games",
+            "description": "",
+            "image": "category/ps5.jpg"
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": "00005b26-50bb-4954-b2e4-67885e68da68",
+        "fields": {
+            "name": "Nintendo Switch",
+            "description":
